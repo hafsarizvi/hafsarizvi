@@ -1,5 +1,13 @@
 # 💫 About Me:
-I am currently working as a Digital Media Associate. <br>I am also learning Python, JavaScript, HTML, and CSS. <br>Additionally, I am a WordPress web developer.
+I'm a wearer of many hats, fueled by a passion for digital communication and a love for learning! 
+
+Digital Marketing Associate: I craft data-driven campaigns that leverage the power of social media (think engaging content!), plan content calendars, and utilize tools like Canva for eye-catching graphics. 
+
+Creative Content Writer (Technical Specialist): My wordsmithery takes center stage here. I simplify complex topics and translate technical jargon into clear, concise language. ⚙️ -> 
+
+Tech Enthusiast (Aspiring Software Engineer): My intrigue with the ever-evolving world of technology runs deep! I'm constantly researching, learning new skills, and on a path to becoming a software engineer myself. 
+
+Bonus: I recently got selected to pursue a BA in English and Linguistics at a top-ranked Sri Lankan university!
 
 
 ## 🌐 Socials:
